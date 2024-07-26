@@ -1,4 +1,4 @@
-# AR-Model-Placer
+# AR Model Placer
 Augmented Reality App implemented using Reality Kit and ARKit in SwiftUI
 
 ## App Interface
